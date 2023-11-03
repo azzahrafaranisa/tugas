@@ -53,12 +53,12 @@ int bilangan = 1;
 
         scanner.close();
     }
-
+  ```
 
 penjelasan tambahan untuk if (bilangan % 2 == 0) {
 Ini adalah pernyataan if yang digunakan untuk melakukan pengecekan kondisi. Ini memeriksa apakah bilangan adalah bilangan genap. Operasi % adalah operator modulus yang menghitung sisa pembagian bilangan dengan 2. Jika sisa pembagian adalah 0, maka bilangan adalah bilangan genap.
 
-   ```
+   
 4. Ini adalah hasil outputnya
 ![tugas 2](https://github.com/azzahrafaranisa/tugas/assets/146317281/3c127497-90a7-44f6-9277-2dcb95db221f)
 
